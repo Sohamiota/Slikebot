@@ -1,4 +1,9 @@
+python-dotenv
 langchain
-langchain-ollama
+langchain-community
+langchain-openai
 langchain-chroma
-PyPDFLoader
+openai
+chromadb
+tiktoken
+pypdf

@@ -5,9 +5,6 @@ __pycache__/
 *.pyd
 
 # Virtual environment
-venv/
-.env/
-.venv/
 
 # Logs
 *.log
@@ -29,3 +26,5 @@ chroma.sqlite
 66e97c39-55ad-4e79-aa45-dd2781a9c128/
 Live Streaming Platform User Guide.pdf
 *.exe
+venv/
+.env
